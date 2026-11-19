@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Livello_1" data-name="Livello 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 247.59 181.1">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff5d9;
+      }
+
+      .cls-2 {
+        font-size: 83.66px;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #e72d49;
+        font-family: Fredoka-SemiBold, Fredoka;
+        font-variation-settings: 'wght' 600, 'wdth' 100;
+        font-weight: 600;
+      }
+
+      .cls-3 {
+        font-size: 100.87px;
+      }
+
+      .cls-4 {
+        fill: #9470db;
+      }
+    </style>
+  </defs>
+  <g>
+    <rect class="cls-4" width="247.59" height="179.22"/>
+    <rect class="cls-1" x="4" y="4" width="239.59" height="171.22"/>
+  </g>
+  <g>
+    <text class="cls-2" transform="translate(19.11 76.95) scale(.96 1)"><tspan x="0" y="0">SAND</tspan></text>
+    <text class="cls-3" transform="translate(20.24 154.27)"><tspan x="0" y="0">BOX</tspan></text>
+  </g>
+</svg>

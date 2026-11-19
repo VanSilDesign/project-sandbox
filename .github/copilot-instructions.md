@@ -1,0 +1,1 @@
+Always respond in English. Write all code comments, test descriptions, and documentation in English.
